@@ -2,8 +2,15 @@
   "title": "Touch Wizards",
   "img_path": "https://raw.githubusercontent.com/khalilacheche/TouchWizards/project-metadata/cover.png",
   "description": "A 2D mobile game",
-  "tags": ["Game Dev"],
-  "langs": ["C#"],
+  "tags": [
+    "Game Dev"
+  ],
+  "langs": [
+    "C#"
+  ],
   "link": "https://play.google.com/store/apps/details?id=com.TrashProds.TouchWizard&hl=en_US&gl=US",
-  "frameworks":["Unity"]
+  "frameworks": [
+    "Unity"
+  ],
+  "date": "2017-04"
 }
